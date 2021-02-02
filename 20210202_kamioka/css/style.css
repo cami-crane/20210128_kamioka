@@ -197,7 +197,7 @@ table td {
 }
 
 .mission-item {
- width: 500px;
+ width: 34.7%;
  height: 400px; 
  position: absolute;
  top: 20%;
@@ -208,12 +208,15 @@ table td {
 .mission-title {
   font-size: 20px;
   margin-bottom: 30px;
+  position: absolute;
+  z-index: 30px;
 }
 
 .mission-wrap p {
   font-size: 12px;
   line-height: 1.5;
-  margin-bottom: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   position: absolute;
   width: 50%;
   position: absolute;
@@ -223,7 +226,7 @@ table td {
 .button {
   width: 16%;
   font-size: 10px;
-  margin-top: 80px;
+  margin-top: 120px;
 }
 
 /* service */
@@ -245,16 +248,16 @@ table td {
 }
 
 .service-item1 {
-  width: 700px;
+  width: 48.6%;
  height: 400px; 
  position: absolute;
  top: 40px;
- left: 740px;
+ left: 51.4%;
  z-index: 10px;
 }
 
 .service-item2 {
-  width: 700px;
+  width: 48.6%;
  height: 400px; 
  position: absolute;
  top: 55%;
@@ -293,7 +296,7 @@ table td {
   font-size: 12px;
   position: absolute;
   top: 65%;
-  left: 600px;
+  left: 41.7%;
 }
 
 /* business */
